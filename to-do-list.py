@@ -1,3 +1,4 @@
+#We import our gui module tkinter and our date verifier module
 import tkinter as tk
 from datetime import datetime
 
